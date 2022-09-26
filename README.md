@@ -6,6 +6,7 @@ This is a final homework project for Introduction to Machine Learning (NPFL054) 
 - report.pdf contains detailed analysis of the information obtained, including comparisson of those and final conclusion.
 ## Techniques and approaches used
 this is just an outline, for better analysis please refer to: report.pdf file
+
 classification models used (wtih parameters in brackets that were tuned):
 - Decision tree (complexity parameter)
 - Random forest (number of trees, feature sample size)
